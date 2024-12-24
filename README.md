@@ -16,9 +16,14 @@ This project aims to answer the following questions:
 -	Results folder: Contains outputs from the do-files
 ## Usage
 To execute the code, ensure that:
--	Stata is installed.
--	Change file directory: Before running any commands in the master do-file, update the global variables that set the file directories with the local file path location on your computer.
--	Run the master do-file
+1) Stata is installed.
+2) Download Required Datasets: Obtain the following datasets from the provided website:
+- 2022 dataset on educator qualifications based on the poverty level
+- 2022 dataset on nationwide college enrollment
+- 2022 dataset on per-pupil expenditures
+- 2023 dataset on per-pupil expenditures
+3) Change file directory: Before running any commands in the master do-file, update the global variables that set the file directories with the local file path location on your computer.
+4) Run the master do-file.
 ## Output
 The project generates:
 -	Visualizations (e.g., graphs)
