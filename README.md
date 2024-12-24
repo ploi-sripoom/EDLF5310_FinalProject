@@ -13,7 +13,8 @@ This project aims to answer the following questions:
 - Import Folder: Contains do-files for importing and cleaning raw datasets.
 -	Merge Do-File: Merges cleaned datasets into a final analytic dataset.
 -	Analysis Folder: Contains do-files for addressing each research question.
--	Results folder: Contains outputs from the do-files
+-	Log-files Folder: Contains PDF and SMCL version of log file that is generated automatically when running the master do-file
+-	Results Folder: Contains outputs from the master do-file
 ## Usage
 To execute the code, ensure that:
 1) Stata is installed.
