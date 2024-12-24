@@ -1,0 +1,14 @@
+Regression Estimates: Inexperienced Educators and College Enrollment	
+	(1)
+VARIABLES	Model 1
+	
+inexperiencededucatorspct2022	-1.449***
+	(0.174)
+Constant	79.101***
+	(3.063)
+	
+Observations	109
+R-squared	0.393
+Adjusted R2	0.387
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

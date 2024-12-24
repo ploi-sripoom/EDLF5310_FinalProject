@@ -1,0 +1,26 @@
+{\rtf1\fs24
+\pard\qc
+Regression Estimates: Mean Total SAT Scores and School's Poverty Level\par
+Controlling for Students Tested\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2736\clbrdrt\brdrs\cellx4608
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2736\cellx4608
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2736\clbrdrb\brdrs\cellx4608
+\ql VARIABLES\cell\qc Model 1\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2736\cellx4608
+\ql \cell\qc \cell\row
+\ql povertylevel2022\cell\qc -243.715***\cell\row
+\ql \cell\qc (18.982)\cell\row
+\ql studentstested2022\cell\qc 0.355***\cell\row
+\ql \cell\qc (0.075)\cell\row
+\ql Constant\cell\qc 1,063.308***\cell\row
+\ql \cell\qc (19.315)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 102\cell\row
+\ql R-squared\cell\qc 0.805\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2736\clbrdrb\brdrs\cellx4608
+\ql Adjusted R2\cell\qc 0.801\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

@@ -1,0 +1,17 @@
+Regression Estimates: Mean Total SAT Scores and School's Poverty Level	
+Controlling for Students Tested	
+	(1)
+VARIABLES	Model 1
+	
+povertylevel2022	-243.715***
+	(18.982)
+studentstested2022	0.355***
+	(0.075)
+Constant	1,063.308***
+	(19.315)
+	
+Observations	102
+R-squared	0.805
+Adjusted R2	0.801
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

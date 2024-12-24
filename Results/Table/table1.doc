@@ -1,0 +1,23 @@
+{\rtf1\fs24
+\pard\qc
+Regression Estimates: Inexperienced Educators and College Enrollment\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx4320\clbrdrt\brdrs\cellx5760
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4320\cellx5760
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx5760
+\ql VARIABLES\cell\qc Model 1\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4320\cellx5760
+\ql \cell\qc \cell\row
+\ql inexperiencededucatorspct2022\cell\qc -1.449***\cell\row
+\ql \cell\qc (0.174)\cell\row
+\ql Constant\cell\qc 79.101***\cell\row
+\ql \cell\qc (3.063)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 109\cell\row
+\ql R-squared\cell\qc 0.393\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx5760
+\ql Adjusted R2\cell\qc 0.387\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
