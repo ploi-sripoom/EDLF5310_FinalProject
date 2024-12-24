@@ -18,6 +18,7 @@ This project aims to answer the following questions:
 To execute the code, ensure that:
 1) Stata is installed.
 2) Download Required Datasets: Obtain the following datasets from the provided website:
+- 2022 dataset on college readiness
 - 2022 dataset on educator qualifications based on the poverty level
 - 2022 dataset on nationwide college enrollment
 - 2022 dataset on per-pupil expenditures
